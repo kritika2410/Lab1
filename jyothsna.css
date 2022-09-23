@@ -1,3 +1,7 @@
+hr.new3 {
+  border-top: 1px dotted red;
+}
+
 .cards{
   border: solid;  
   text-align: center;
