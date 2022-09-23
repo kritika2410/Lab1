@@ -10,10 +10,11 @@ hr{
   border: solid;  
   text-align: center;
   border: 3px solid black;
+  background-color: powderblue;
 }
 
 body {
   border: solid;
   border: 3px solid black;
-  background-color: #DBF9FC;
+  background-color: light pink;
   text-align: center;}
