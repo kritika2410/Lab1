@@ -1,1 +1,11 @@
-p.solid {border-style: solid;}
+.cards{
+  border: solid;  
+  text-align: center;
+  border: 3px solid black;
+}
+
+body {
+  border: solid;
+  border: 3px solid black;
+  background-color: powderblue;
+  text-align:center;}
