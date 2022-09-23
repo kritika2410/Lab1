@@ -5,6 +5,7 @@ body {
 }
 
 .Demo{
+    margin: 100,0,100,0;
     border: solid;  
      text-align: center;
      border: 3px solid green;
