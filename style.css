@@ -2,18 +2,20 @@ body {
     margin: 0;
     font-family: Arial, Helvetica, sans-serif;
     background-color: #ecdfdf;
+    
 }
 
 .Demo{
     border: solid;  
      text-align: center;
      border: 3px solid black;
-    
+     background-color: ccccff;
+     margin: 105px 50px 105px 50px;
 }
 
 .RedBorder{
     border: 5px solid #555;
-    margin: 100,0,100,0;
+    margin: 100px 50px 100px 50px;
 
 }
 
