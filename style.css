@@ -4,6 +4,10 @@ body {
     background-color: #ecdfdf;
 }
 
+.Demo{
+    border: solid;    
+}
+
 
 .wrapper {
     width: 80%;
