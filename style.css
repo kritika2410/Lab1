@@ -5,7 +5,9 @@ body {
 }
 
 .Demo{
-    border: solid;    
+    border: solid;  
+     text-align: center;
+     border: 3px solid green;
 }
 
 .RedBorder{
