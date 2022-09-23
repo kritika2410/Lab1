@@ -8,6 +8,10 @@ body {
     border: solid;    
 }
 
+.RedBorder{
+    border: 5px solid #555;
+
+}
 
 .wrapper {
     width: 80%;
