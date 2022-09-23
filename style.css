@@ -7,11 +7,13 @@ body {
 .Demo{
     border: solid;  
      text-align: center;
-     border: 3px solid green;
+     border: 3px solid black;
+    
 }
 
 .RedBorder{
     border: 5px solid #555;
+    margin: 100,0,100,0;
 
 }
 
