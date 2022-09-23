@@ -16,13 +16,10 @@ body {
     padding: 50px;
 }
 
-table {
-    margin-left: auto;
-    margin-right: auto;
-    
-}
-
-tr td {
-    border: 1px solid black;
-    text-align: center;
+.card{
+     background-color: lightgrey;
+  width: 300px;
+  border: 15px solid green;
+  padding: 50px;
+  margin: 20px;
 }
