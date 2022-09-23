@@ -2,8 +2,11 @@
 .cards{
   border: solid;  
   text-align: center;
-  border: 3px solid green;
+  border: 3px solid black;
 }
 
-body {background-color: powderblue;
-text-align:center;}
+body {
+  border: solid;
+  border: 3px solid black;
+  background-color: powderblue;
+  text-align:center;}
